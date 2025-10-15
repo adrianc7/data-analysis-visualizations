@@ -12,7 +12,8 @@ Using the HR Data.xlsx dataset, the dashboard visualizes workforce demographics,
 ## Repository Structure
 - HR Data.xlsx – HR dataset used for Tableau analysis  
 - HR Attrition Statistics Dashboard.twbx – Packaged Tableau workbook  
-- HR Attrition Statistics Dashboard.twb – Tableau workbook (without data)  
+- HR Attrition Statistics Dashboard.twb – Tableau workbook (without data) 
+- HR Attrition Statistics Dashboard.pdf (PDF version of the dashboard and easily viewable)
 - README.md – Project documentation
 
 ---
