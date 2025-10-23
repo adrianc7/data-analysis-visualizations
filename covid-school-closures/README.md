@@ -33,7 +33,6 @@ Explore the full interactive version here:
 
 | File | Description |
 |------|--------------|
-| `covid-school-closures_rianchavezloya.pbix` | Power BI project file containing the full data model and interactive visuals |
 | `covid-school-closures_rianchavezloya.pdf` | Exported static version of the dashboard for offline viewing |
 
 ---
