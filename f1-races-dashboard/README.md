@@ -33,7 +33,6 @@ Explore the full interactive version here:
 
 | File | Description |
 |------|--------------|
-| `F1_Dashboard.pbix` | Power BI project file containing the complete data model and visuals |
 | `F1_Dashboard.pdf` | Static exported version of the dashboard for preview or offline viewing |
 | `README.md` | Repository documentation detailing project structure and insights |
 
